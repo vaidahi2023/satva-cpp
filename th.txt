@@ -1,0 +1,15 @@
+iostream header file 
+cout -- output (printf)
+cin -- input (scanf)
+
+namespace std;
+
+datatype -- int,float,char,double,boolean,string
+
+types of operators
+
+1.arithimetic operators: +,-,*,/,%,++,--
+2.assignment operators:+=,-=,*=,/=,%=
+3.comparison operators:<,>,>=,<=,==,!=
+4.logical operators: && --and ,|| -- or,!- not
+
