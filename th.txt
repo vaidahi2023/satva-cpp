@@ -13,3 +13,40 @@ types of operators
 3.comparison operators:<,>,>=,<=,==,!=
 4.logical operators: && --and ,|| -- or,!- not
 
+conditional statement 
+
+if
+if else
+nested if else 
+ladder if else
+switch 
+
+syntax:
+if(condition)
+{
+
+}
+else
+{
+    
+}
+
+types of loop 
+1.entry control loop
+    -- for loop 
+    -- while loop
+2.exit control loop
+    -- do while
+
+for(intialization;condition;increment/decrement)
+{
+    
+}
+
+syntax:
+
+intialization
+while(condition)
+{
+    increment/decrement;
+}
