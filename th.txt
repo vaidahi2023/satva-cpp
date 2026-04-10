@@ -50,3 +50,8 @@ while(condition)
 {
     increment/decrement;
 }
+
+array is collection of elements having same datatype
+syntax:
+datatype array_name[size]
+
