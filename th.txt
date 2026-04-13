@@ -55,3 +55,13 @@ array is collection of elements having same datatype
 syntax:
 datatype array_name[size]
 
+typesof functions:
+
+1.without argument without return
+2.with argument without return
+3.without argument with return
+4.with argument with return
+
+functions declare 
+function define 
+function call
