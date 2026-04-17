@@ -65,3 +65,18 @@ typesof functions:
 functions declare 
 function define 
 function call
+
+class -- it is a blueprint of objects. it is used to define variable and methods
+object -- object is a instance of class.
+          object is real world entity
+
+laptop -- class 
+dell laptop u5 -- object 
+pen -- class
+doms pen -- object 
+bottle -- class
+red bottle-- object
+
+syntax:
+classname objectname;
+
