@@ -1,0 +1,30 @@
+oops concept
+1. Encapsulation
+2. Inheritance
+3. Polymorphism
+4. Abstraction
+
+constructors
+constructor is a special type of method that is used to initialize the object. 
+It is called when an object of a class is created. 
+The constructor has the same name as the class and does not have a return type.
+
+types of constructors
+1. Default constructor: A constructor that takes no arguments and initializes the object with default values.
+2. Parameterized constructor: A constructor that takes arguments and initializes the object with the provided values.
+3. Copy constructor: A constructor that creates a new object as a copy of an existing object.
+
+syntax of constructor:
+class ClassName {
+    // data members
+    // member functions
+
+    // constructor
+    ClassName() {
+        // initialization code
+    }
+}
+int main() {
+    ClassName obj; // default constructor is called
+    return 0;
+}
