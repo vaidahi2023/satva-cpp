@@ -27,4 +27,3 @@ int main()
     example e2(e);
     cout<<"e2 id"<<e2.id;
 }
-
