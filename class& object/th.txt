@@ -34,5 +34,14 @@ pillars of oops
 It helps in hiding the internal details of the object and only exposing the necessary information to the outside world.
 2. Inheritance: It is the process of creating a new class from an existing class. The new class is called derived class and the existing class is called base class.
  The derived class inherits the properties and behaviors of the base class.
-3. Polymorphism: It is the ability of an object to take on many forms. It allows a single interface to be used for a general class of actions. The specific action is determined by the exact nature of the situation.      
-4. Abstraction: It is the process of hiding the implementation details and showing only the functionality to the user. It helps in reducing complexity and allows the user to focus on what the object does instead of how it does it.
+3. Polymorphism: It is the ability of an object to take on many forms. 
+It allows a single interface to be used for a general class of actions. The specific action is determined by the exact nature of the situation.      
+4. Abstraction: It is the process of hiding the implementation details and showing only the functionality to the user. 
+It helps in reducing complexity and allows the user to focus on what the object does instead of how it does it.
+
+types of inheritance
+1. Single Inheritance: A derived class inherits from a single base class.
+2. Multiple Inheritance: A derived class inherits from more than one base class.    
+3. Multilevel Inheritance: A derived class inherits from a base class, and another class inherits from the derived class.
+4. Hierarchical Inheritance: Multiple derived classes inherit from a single base class.
+5. Hybrid Inheritance: A combination of two or more types of inheritance.
