@@ -45,3 +45,12 @@ types of inheritance
 3. Multilevel Inheritance: A derived class inherits from a base class, and another class inherits from the derived class.
 4. Hierarchical Inheritance: Multiple derived classes inherit from a single base class.
 5. Hybrid Inheritance: A combination of two or more types of inheritance.
+
+abstraction
+Abstraction is the process of hiding the implementation details and showing only the functionality to the user.
+It helps in reducing complexity and allows the user to focus on what the object does instead of how it does it.
+Abstraction can be achieved through abstract classes and interfaces.    
+
+polymorphism
+1. Compile-time Polymorphism: It is achieved through method overloading and operator overloading
+2. Run-time Polymorphism: It is achieved through method overriding and virtual functions.
